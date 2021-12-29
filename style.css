@@ -59,33 +59,34 @@ button:hover {
     justify-content: space-between;
 }
 
-.hero {
-    gap: 2rem;
-    margin: 7rem 0;
-}
-
-.header .logo {
+.navigation .logo {
     color: #F9FAF8;
     font-size: 24px;
     font-weight: bold;
 }
 
-.header .links {
+.navigation .links {
     display: flex;
     gap: 16px;
 }
 
-.hero-left, .hero-right {
-    flex: 1 1 0;
+.hero {
+    gap: 2rem;
+    margin: 7rem 0;
+    flex-wrap: wrap;
 }
 
-.hero-left .main {
+.hero-left, .hero-right {
+    flex: 1;
+}
+
+.hero-main {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
 }
 
-.hero-left .secondary {
+.hero-secondary {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -162,18 +163,18 @@ button:hover {
     justify-content: center;    
 }
 
-.quote-section {
+.quote-block {
     display: flex;
     flex-direction: column;
     padding: 6rem;
     gap: 2rem;
 }
 
-.quote, .quote-author {
+.quote-text, .quote-author {
     color: #1F2937;
 }
 
-.quote {
+.quote-text {
     flex: 1;
     font-size: 36px;
     font-style: italic;
@@ -192,12 +193,12 @@ button:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 6rem 10rem;
 }
 
 .banner-box {
     flex: 1;
     background-color: #3882F6;
+    margin: 6rem 10rem;
     padding: 3rem 8rem;
     border-radius: 7px;
     display: flex;
@@ -206,12 +207,7 @@ button:hover {
     gap: 9px;
 }
 
-.banner-left {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
+.banner-left,
 .banner-right {
     display: flex;
     flex-direction: column;
