@@ -1,5 +1,5 @@
 ## About
-A simple landing page project to learn about flex-box.
+A simple landing page project to learn about CSS flexbox.
 
 
 ## Acknowledgments
