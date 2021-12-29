@@ -8,5 +8,5 @@ A simple landing page project to learn about CSS flexbox as part of The Odin Pro
 - <a href="https://unsplash.com/photos/9JjRRqApYh4">Photo</a> by <a href="https://unsplash.com/@detpho?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Francesco De Tommaso</a> on <a href="https://unsplash.com/s/photos/owl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - <a href="https://unsplash.com/photos/LEWbO3MqUsM">Photo</a> by <a href="https://unsplash.com/@jackobas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jesse Cason</a> on <a href="https://unsplash.com/s/photos/owl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - <a href="https://unsplash.com/photos/pcjnWrsZ4TI">Photo</a> by <a href="https://unsplash.com/@angus_buchanan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Angus Gray</a> on <a href="https://unsplash.com/s/photos/owl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-- Favicon by <a href="https://iconarchive.com/artist/thesquid.ink.html">Squid Ink</a>
+- <a href="https://iconarchive.com/show/free-flat-sample-icons-by-thesquid.ink/owl-icon.html">Favicon</a> by <a href="https://iconarchive.com/artist/thesquid.ink.html">Squid Ink</a>
   
