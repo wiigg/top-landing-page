@@ -1,5 +1,5 @@
 ## About
-A simple landing page project to learn about CSS flexbox as part of The Odin Project's curriculum.
+A simple landing page project to learn about CSS flexbox. Part of the curriculum for The Odin Project.
 
 
 ## Acknowledgments
