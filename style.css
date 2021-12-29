@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    height: 100%;
+    margin: 0;
+    font-family: Roboto, sans-serif;   
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+/* Shared */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3882F6;
+}
+
+button {
+    font-weight: 500;
+    margin: 0;
+    border-style: solid;
+    border-radius: 7px;
+    padding: 9px 2rem;
+    background-color: #3882F6;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+/* Header */
+
+.header-wrapper {
+    background-color: #1F2937;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem 12rem;
+}
+
+.navigation, 
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero {
+    gap: 2rem;
+    margin: 7rem 0;
+}
+
+.header .logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header .links {
+    display: flex;
+    gap: 16px;
+}
+
+.hero-left, .hero-right {
+    flex: 1 1 0;
+}
+
+.hero-left .main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero-left .secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+#signup {
+    color: white;
+    margin: 1rem 0;
+    border: 0;
+}
+
+#signup:hover {
+    background-color: white;
+    color: #3882F6;
+}
+
+.hero-right {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-right img {
+    max-height: 24rem;
+    width: auto;
+    border-radius: 7px;
+}
+
+/* Information */
+
+.information {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 5rem 0;
+    color: #1F2937;
+}
+
+.heading {
+    margin-bottom: 2rem;
+    font-size: 36px;
+    font-weight: 1000;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 170px;
+}
+
+.information img {
+    border-radius: 7px;
+    height: 170px;
+    width: 170px;
+}
+
+.text {
+    margin: 1rem 0;
+}
+
+/* Quote */
+
+.quote-wrapper {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;    
+}
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    padding: 6rem;
+    gap: 2rem;
+}
+
+.quote, .quote-author {
+    color: #1F2937;
+}
+
+.quote {
+    flex: 1;
+    font-size: 36px;
+    font-style: italic;
+    max-width: 50rem;
+}
+
+.quote-author {
+    font-weight: 700;
+    font-size: 24px;
+    align-self: flex-end;
+}
+
+/* Banner */
+
+.banner-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 6rem 10rem;
+}
+
+.banner-box {
+    flex: 1;
+    background-color: #3882F6;
+    padding: 3rem 8rem;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 9px;
+}
+
+.banner-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner-heading {
+    font-size: 24px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
+.banner-text {
+    color: #F9FAF8;
+}
+
+#banner-signup {
+    border-color: white;
+    color: white;
+}
+
+#banner-signup:hover {
+    background-color: white;
+    color: #3882F6;
+}
+
+/* Footer */
+
+.footer-wrapper {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    padding: 2rem;
+}
