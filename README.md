@@ -1,6 +1,7 @@
 ## About
-A simple landing page project to learn about CSS flexbox. Part of the curriculum for [The Odin Project](https://www.theodinproject.com/).
+A simple landing page project to learn about CSS flexbox.
 
+Part of the curriculum for [The Odin Project](https://www.theodinproject.com/).
 
 ## Acknowledgments
 - <a href="https://unsplash.com/photos/lNeIjS1rXus">Photo</a> by <a href="https://unsplash.com/@derobi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dominik Van Opdenbosch</a> on <a href="https://unsplash.com/s/photos/owl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
